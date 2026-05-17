@@ -10,7 +10,7 @@
         },
         .@"ziez-ua-parser" = .{
             .url = "https://github.com/ziez-dev/ua-parser/archive/refs/tags/v0.0.1.tar.gz",
-            .hash = "ziez_ua_parser-0.0.1-oBQnYoYdMwB1OWEaQW560rsbbAmXMufKa17dqIRqv2vQ",
+            .hash = "ziez_ua_parser-0.0.1-oBQnYn0dMwALM8JcoYDD1VayBKGE7gIihrQSYzWVLpaw",
         },
     },
     .paths = .{ "src", "tests", "build.zig", "build.zig.zon" },
