@@ -1,14 +1,14 @@
 .{
     .name = .@"ziez-tracker",
-    .version = "0.1.0",
+    .version = "0.0.1",
     .minimum_zig_version = "0.16.0",
     .dependencies = .{
         .ziez = .{
-            .url = "https://github.com/ziez-dev/ziez/archive/refs/tags/v0.1.0.tar.gz",
+            .url = "https://github.com/ziez-dev/ziez/archive/refs/tags/v0.0.1.tar.gz",
             .hash = "REPLACE_WITH_ZIG_FETCH_HASH",
         },
         .@"ziez-ua-parser" = .{
-            .url = "https://github.com/ziez-dev/ua-parser/archive/refs/tags/v0.1.0.tar.gz",
+            .url = "https://github.com/ziez-dev/ua-parser/archive/refs/tags/v0.0.1.tar.gz",
             .hash = "REPLACE_WITH_ZIG_FETCH_HASH",
         },
     },
