@@ -1,16 +1,16 @@
 .{
     .fingerprint = 0x717b9583c30cfe91,
     .name = .ziez_tracker,
-    .version = "0.0.3",
+    .version = "0.0.4",
     .minimum_zig_version = "0.16.0",
     .dependencies = .{
         .ziez = .{
-            .url = "https://github.com/ziez-dev/ziez/archive/refs/tags/v0.0.3.tar.gz",
-            .hash = "ziez-0.0.3-zH20GkljAwCvLaouSJC9Cyh278v_vNpqT4N9HI-aR6ER",
+            .url = "https://github.com/ziez-dev/ziez/archive/refs/tags/v0.0.4.tar.gz",
+            .hash = "ziez-0.0.4-zH20GkljAwCKaqElKDtJ7zsUYS4bNKGd9XY4K_CCEnjZ",
         },
         .@"ziez-ua-parser" = .{
             .url = "https://github.com/ziez-dev/ua-parser/archive/refs/heads/main.tar.gz",
-            .hash = "ziez_ua_parser-0.0.3-oBQnYjkdMwCRxbxCcBHz5h1oZpBChCKyYpb9S9Mnoksn",
+            .hash = "ziez_ua_parser-0.0.4-oBQnYjkdMwBKJ0RBwWFxJyCG0u_keFcyk-054R_JvtGR",
         },
     },
     .paths = .{ "src", "tests", "build.zig", "build.zig.zon" },
